@@ -22,7 +22,7 @@
 		<sonar.projectVersion>1.0</sonar.projectVersion>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.sourceEncoding>UTF-8</sonar.sourceEncoding>
-		<sonar.sources>src/main</sonar.sources>
+		<sonar.sources>src</sonar.sources>
 		<sonar.java.binaries>target/classes</sonar.java.binaries>
 		<sonar.scm.disabled>true</sonar.scm.disabled>
 		<sonar.login>admin</sonar.login>
